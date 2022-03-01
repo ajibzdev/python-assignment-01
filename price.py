@@ -1,0 +1,10 @@
+sugar = 50;
+cookies = 100;
+milk = 50;
+bread = 150;
+sardine = 700;
+milo = 100;
+drink_cocacola = 150;
+sweet_chewinggum = 20;
+biscuit = 50;
+lipton = 100;
